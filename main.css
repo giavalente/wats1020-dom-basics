@@ -11,3 +11,6 @@ html {
     padding: 1em;
     margin: 1em;
 }
+ul {
+    list-style-type: none;
+}
